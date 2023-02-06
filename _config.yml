@@ -17,8 +17,9 @@ title: Theatralement Votre
 email: info@theatralementvotre.fr
 description: >- # this means to ignore newlines until "baseurl:"
   Association Théatrâle de Neuvecelle
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+domain: guillaumev.github.io
+url: https://guillaumev.github.io
+baseurl: /theatralementvotre/ # the subpath of your site, e.g. /blog
 #twitter_username: jekyllrb
 #github_username:  jekyll
 

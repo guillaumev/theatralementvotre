@@ -1,6 +1,5 @@
 ---
 layout: home
 published: true
-background: bg-theater.jpeg
+background: bg-theater.jpg
 ---
-

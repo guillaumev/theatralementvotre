@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Festival Neuvescène 2023"
-date:   2023-02-01 19:05:10 +0100
+title: Festival Neuvescène 2023
+date: '2023-02-01 19:05:10 +0100'
+published: true
 ---
 # Dossier d'inscription
 
@@ -13,7 +14,7 @@ Veuillez télécharger le dossier en cliquant sur le lien:
 
 ## Quelques photos
 
-![Plan 1](/assets/img/marc_007.jpg "La salle")
+![Plan 1](assets/img/marc_007.jpg "La salle")
 
 ## Plan de la salle
 

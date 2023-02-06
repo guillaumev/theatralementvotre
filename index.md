@@ -1,5 +1,6 @@
 ---
 layout: home
 published: true
+background: bg-theater.jpeg
 ---
-![bg-theater.jpg]({{site.baseurl}}/bg-theater.jpg)
+

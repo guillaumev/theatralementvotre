@@ -14,7 +14,8 @@ Veuillez télécharger le dossier en cliquant sur le lien:
 
 ## Quelques photos
 
-![Plan 1](assets/img/marc_007.jpg "La salle")
+![La salle]({{site.baseurl}}//assets/img/marc_007.jpg)
+
 
 ## Plan de la salle
 

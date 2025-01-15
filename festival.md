@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Festival Neuvescène 2023"
-date:   2023-02-01 01:05:10 +0100
+layout: page
+title:  "Festival"
+permalink: /festival
 ---
 # Dossier d'inscription
 

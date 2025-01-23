@@ -1,7 +1,16 @@
 ---
 layout: page
-title:  "Contact"
+title: Contact
 permalink: /contact/
 ---
 
-Contactez nous par email à l'adresse ...
+Notre festival vous interesse? Contactez nous: neuvescene@gmail.com
+
+Des questions sur notre troupe? Contactez nous:troupe.theatralementvotre74@gmail.com
+
+
+
+THEATRALEMENT VOTRE
+
+Association Théâtrale de Neuvecelle
+520 Av. de Maxilly, 74500 Neuvecelle

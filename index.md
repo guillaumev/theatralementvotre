@@ -27,7 +27,8 @@ Véronique, Guillaume Viguier-Just, Magali Perez, Fred Charpy, Nathalie Schelsoh
 
 
 ## On parle de nous...
-![Neuv'Echos N°79 - Octobre 2024]({{site.baseurl}}/neuvecho 2025-01-24 16-12-47.png) Neuv'Echos N°79 - Octobre 2024
+**Neuv'Echos N°79 - Octobre 2024**
+![Neuv'Echos N°79 - Octobre 2024]({{site.baseurl}}/neuvecho 2025-01-24 16-12-47.png) 
 
 
 

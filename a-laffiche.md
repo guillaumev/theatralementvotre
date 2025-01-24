@@ -18,6 +18,7 @@ Forcément, toutes les conditions sont réunies pour que le fiasco soit au rende
 ## À vos agendas!
 ### Samendi 08 février 20h30 
 Palais des Festivités d'Evian
+
 Pl. Peintre Charles Cottet, 74500 Évian-les-Bains
 
 

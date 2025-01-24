@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Qui sommes nous ?
-permalink: /about/
+permalink: /a-laffiche/
 ---
 
 L'équipe actuelle : tantôt comédiens, tantôt techniciens mais toujours passionnés !

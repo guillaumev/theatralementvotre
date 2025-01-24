@@ -18,12 +18,18 @@ Forcément, toutes les conditions sont réunies pour que le fiasco soit au rende
 ## À vos agendas!
 
 **Samendi 08 février 20h30**  
-Théâtre de la Rastaquouere  
+Théâtre de la Rastaquouère  
 7 Av. d'Abondance, 74500 Évian-les-Bains
 
 **Samendi 22 février 20h30**  
 Palais des Festivités d'Evian  
 Pl. Peintre Charles Cottet, 74500 Évian-les-Bains
+
+**Samendi 29 Mars 20h30**  
+Maxilly
+
+**Samendi 05 Avril 20h30**  
+Cervens
 
 ![1000034546.jpg]({{site.baseurl}}/1000034546.jpg) ![1000034539.jpg]({{site.baseurl}}/1000034539.jpg) ![1000034526.jpg]({{site.baseurl}}/1000034526.jpg)
 ![1000034505.jpg]({{site.baseurl}}/1000034505.jpg)

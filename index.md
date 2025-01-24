@@ -3,7 +3,7 @@ layout: home
 published: true
 background: bg-theater.jpg
 ---
-## L'équipe actuelle
+## Qui sommes nous?
 Tantôt comédiens, tantôt techniciens mais toujours passionnés !  
  
 Frédéric Duclos: President et comédien  

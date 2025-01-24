@@ -24,3 +24,8 @@ Véronique, Guillaume Viguier-Just, Magali Perez, Fred Charpy, Nathalie Schelsoh
 
 ![photo-troupe.jpg]({{site.baseurl}}/photo-troupe.jpg)
 
+
+## On parle de nous...
+![neuvecho 2025-01-24 16-12-47.png]({{site.baseurl}}/neuvecho 2025-01-24 16-12-47.png)
+
+

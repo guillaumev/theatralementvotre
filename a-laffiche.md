@@ -1,3 +1,8 @@
+---
+layout: page
+title: A l'affiche
+permalink: /a-laffiche/
+---
 
 L'équipe actuelle : tantôt cffgomédiens, tantôt techniciens mais toujours passionnés !
 

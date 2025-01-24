@@ -5,12 +5,22 @@ background: bg-theater.jpg
 ---
 ## L'équipe actuelle
 Tantôt comédiens, tantôt techniciens mais toujours passionnés !  
-Nous sommes une troupe de 11 comédiens, un régisseur et 1 metteuse en scène :  
-Frédéric Duclos, Anne-Sophie Morel, Stéphane Morel, José Robain, Nathalie Schelsohn, Philippe  
-Charpy, Christina Da Silva, Gisèle Martin, Nicole Robain, Marie-Cécile Raoulx, Yesdy, Marc Perez  
+Nous sommes une troupe de 11 comédiens, un régisseur et 1  :  
+Frédéric Duclos: President et comédien  
+Nicole Robain: Secretaire et metteuse en scène  
+José Robain: Technicien et comédien  
+Anne-Sophie Morel: Comédienne  
+Stéphane Morel: Comédien  
+Philippe Charpy: Comédien  
+Marie-Cécile Raoulx: Comédienne  
+Yesdy Viguier-Just: Comédienne  
+Christina Da Silva: Comédienne  
+Gisèle Martin: Comédienne  
+Sylvie: Comédienne
+Marc Perez: Technicien  
 
 ## Merci aux "mac gyvers féminins et masculins" sans qui rien ne serait possible !
-Véronique, Sylvie et Jean-Marc, Guillaume, Magali, Fred
+Véronique, Jean-Marc, Guillaume, Magali Perez, Fred, Nathalie Schelsohn
 
 ![photo-troupe.jpg]({{site.baseurl}}/photo-troupe.jpg)
 

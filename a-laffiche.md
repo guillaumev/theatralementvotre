@@ -16,6 +16,11 @@ Commence alors une enquête qui va déclencher une succession de mensonges, quip
 Forcément, toutes les conditions sont réunies pour que le fiasco soit au rendez-vous le soir de la première…
 
 ## À vos agendas!
+### Samendi 08 février 20h30 
+Palais des Festivités d'Evian
+Pl. Peintre Charles Cottet, 74500 Évian-les-Bains
+
+
 
 
 

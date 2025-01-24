@@ -15,10 +15,4 @@ Ils ne sont pas prêts et rien ne se passe comme prévu : Sandra est témoin d�
 Commence alors une enquête qui va déclencher une succession de mensonges, quiproquos, délires, rebondissements…
 Forcément, toutes les conditions sont réunies pour que le fiasco soit au rendez-vous le soir de la première…
 
-![]({{site.baseurl}}1000034546.jpg) ![1000034539.jpg]({{site.baseurl}}/1000034539.jpg)
-
-
-![1000034526.jpg]({{site.baseurl}}/1000034526.jpg) ![1000034505.jpg]({{site.baseurl}}/1000034505.jpg)
-
-
-  
+![1000034546.jpg]({{site.baseurl}}/1000034546.jpg)

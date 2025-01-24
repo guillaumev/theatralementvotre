@@ -4,9 +4,11 @@ title: Contact
 permalink: /contact/
 ---
 
-Notre festival vous interesse? Contactez nous: neuvescene@gmail.com
+Notre festival vous interesse? 
+Contactez nous: neuvescene@gmail.com
 
-Des questions sur notre troupe? Contactez nous:troupe.theatralementvotre74@gmail.com
+Des questions sur notre troupe? 
+Contactez nous: troupe.theatralementvotre74@gmail.com
 
 
 

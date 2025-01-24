@@ -5,7 +5,7 @@ background: bg-theater.jpg
 ---
 ## L'équipe actuelle
 Tantôt comédiens, tantôt techniciens mais toujours passionnés !  
-Nous sommes une troupe de 11 comédiens, un régisseur et 1  :  
+ 
 Frédéric Duclos: President et comédien  
 Nicole Robain: Secretaire et metteuse en scène  
 José Robain: Technicien et comédien  

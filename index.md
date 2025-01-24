@@ -16,11 +16,11 @@ Marie-Cécile Raoulx: Comédienne
 Yesdy Viguier-Just: Comédienne  
 Christina Da Silva: Comédienne  
 Gisèle Martin: Comédienne  
-Sylvie: Comédienne
+Sylvie: Comédienne  
 Jean-Marc Perez: Technicien  
 
 ## Merci aux "mac gyvers féminins et masculins" sans qui rien ne serait possible !
-Véronique, Guillaume, Magali Perez, Fred Charpy, Nathalie Schelsohn
+Véronique, Guillaume Viguier-Just, Magali Perez, Fred Charpy, Nathalie Schelsohn
 
 ![photo-troupe.jpg]({{site.baseurl}}/photo-troupe.jpg)
 

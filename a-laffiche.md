@@ -18,6 +18,8 @@ Forcément, toutes les conditions sont réunies pour que le fiasco soit au rende
 ## À vos agendas!
 ### Samendi 08 février 20h30 
 Palais des Festivités d'Evian                                                                   Pl. Peintre Charles Cottet, 74500 Évian-les-Bains
+Les comédiens répètent, tant bien que mal, une pièce qu’ils joueront demain soir, pour la première fois.
+Ils ne sont pas prêts et rien ne se passe comme prévu : Sandra est témoin d’un cambriolage, Arthur est victime d’une arnaque, Jacques déprime et la police débarque !
 
 
 

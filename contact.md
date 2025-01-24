@@ -8,7 +8,7 @@ permalink: /contact/
 Contactez nous: neuvescene@gmail.com
 
 ## Des questions sur notre troupe ?
-Contactez nous: troupe.theatralementvotre74@gmail.com
+Contactez nous: [troupe.theatralementvotre74@gmail.com](mailto:troupe.theatralementvotre74@gmail.com)
 
 ## Notre adresse
 

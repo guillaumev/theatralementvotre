@@ -27,10 +27,7 @@ Véronique, Guillaume Viguier-Just, Magali Perez, Fred Charpy, Nathalie Schelsoh
 
 
 ## On parle de nous...
-**Neuv'Echos N° 75 - Juillet 2023**
 ![Capture d’écran du 2025-01-24 19-34-22.png]({{site.baseurl}}/Capture d’écran du 2025-01-24 19-34-22.png)
 
-
-## L
 
 ![IMG_0541.jpg]({{site.baseurl}}/IMG_0541.jpg)

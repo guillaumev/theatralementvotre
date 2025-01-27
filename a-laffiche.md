@@ -5,9 +5,9 @@ permalink: /a-laffiche/
 ---
 ![Flyer]({{site.baseurl}}/flyer2024-page2.png)
 
-Comédie hilarante!
-Auteur : Vivien L'heraux
-Public : Tout public
+### Comédie hilarante!
+**Auteur : Vivien L'heraux**  
+**Public : Tout public**  
 
 Les comédiens répètent, tant bien que mal, une pièce qu’ils joueront demain soir, pour la première fois.
 Ils ne sont pas prêts et rien ne se passe comme prévu : Sandra est témoin d’un cambriolage, Arthur est victime d’une arnaque, Jacques déprime et la police débarque !
@@ -37,4 +37,3 @@ Cervens
 
 ## Pièces jouées
 -Les Bonobos
-

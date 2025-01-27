@@ -10,11 +10,9 @@ Veuillez télécharger le dossier en cliquant sur le lien:
 
 [Dossier d'inscription][dossier-inscription]
 
-# La salle
+# La salle  
+![la-scene.jpg]({{site.baseurl}}/la-scene.jpg)
 
-## Quelques photos
-
-![Plan 1](/assets/img/marc_007.jpg "La salle")
 
 ## Plan de la salle
 

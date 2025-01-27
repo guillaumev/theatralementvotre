@@ -2,11 +2,11 @@
 layout: page
 title: Festival
 permalink: /festival
-background: inscriptions.png
+background: /assets/img/inscriptions.png
 ---
 # Dossier d'inscription
 
-Veuillez télécharger le dossier en cliquant sur le lien:hfghfghgfhgj
+Veuillez télécharger le dossier en cliquant sur le lien:
 
 [Dossier d'inscription][dossier-inscription]
 

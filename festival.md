@@ -10,8 +10,10 @@ Veuillez télécharger le dossier en cliquant sur le lien:
 
 [Dossier d'inscription][dossier-inscription]
 
+
 ## La salle
 ![la-scene.jpg]({{site.baseurl}}/la-scene.jpg)
+
 
 
 ## Plan de la salle  
@@ -26,6 +28,8 @@ Elle est composée de 12 podiums de 1 x 2 mètres.
 Profondeur de la scène 4 mètres.
 Largeur 6 mètres.
 Le podium est haut de 0.80 mètres, il reste ainsi 2.20 sous plafond.
+
+
 
 ## L'inventaire du matériel
 

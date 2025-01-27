@@ -1,7 +1,8 @@
 ---
 layout: page
-title:  "Festival"
+title: Festival
 permalink: /festival
+background: inscriptions.png
 ---
 # Dossier d'inscription
 

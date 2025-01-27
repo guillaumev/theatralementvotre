@@ -2,7 +2,7 @@
 layout: page
 title: Festival
 permalink: /festival
-background: /assets/img/inscriptions1.png
+background: /assets/img/inscriptions.png
 ---
 ## Dossier d'inscription
 

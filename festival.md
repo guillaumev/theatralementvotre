@@ -10,7 +10,7 @@ Veuillez télécharger le dossier en cliquant sur le lien:
 
 [Dossier d'inscription][dossier-inscription]
 
-# La salle  
+# La salle
 ![la-scene.jpg]({{site.baseurl}}/la-scene.jpg)
 
 

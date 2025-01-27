@@ -14,7 +14,8 @@ Veuillez télécharger le dossier en cliquant sur le lien:
 ![la-scene.jpg]({{site.baseurl}}/la-scene.jpg)
 
 
-## Plan de la salle
+## Plan de la salle  
+![salle-plan-tec.jpg]({{site.baseurl}}/salle-plan-tec.jpg)
 
 La salle d'animation de Neuvecelle est le lieu privilégié pour les manifestations culturelles sur la commune de Neuvecelle.
 D'une capacité maximale de 200 personnes environ, elle se compose d'une salle principale, d'un local de rangement, d'une cuisine avec tout le matériel necéssaire (réfrigérateur, machine à laver la vaiselle, etc...), de toilettes hommes et femmes pour le public, d'un hall d'accueil et d'un bar sans oublier un local régie.

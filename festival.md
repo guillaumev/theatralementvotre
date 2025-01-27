@@ -6,7 +6,7 @@ background: inscriptions.png
 ---
 # Dossier d'inscription
 
-Veuillez télécharger le dossier en cliquant sur le lien:
+Veuillez télécharger le dossier en cliquant sur le lien:hfghfghgfhgj
 
 [Dossier d'inscription][dossier-inscription]
 

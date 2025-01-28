@@ -1,21 +1,23 @@
 ---
 layout: page
-title:  "Festival"
+title: Festival
 permalink: /festival
+background: /assets/img/inscriptions.png
 ---
-# Dossier d'inscription
+## Dossier d'inscription
 
 Veuillez télécharger le dossier en cliquant sur le lien:
 
 [Dossier d'inscription][dossier-inscription]
 
-# La salle
 
-## Quelques photos
+## La salle
+![la-scene.jpg]({{site.baseurl}}/la-scene.jpg)
 
-![Plan 1](/assets/img/marc_007.jpg "La salle")
 
-## Plan de la salle
+
+## Plan de la salle  
+![salle-plan-tec.jpg]({{site.baseurl}}/salle-plan-tec.jpg)
 
 La salle d'animation de Neuvecelle est le lieu privilégié pour les manifestations culturelles sur la commune de Neuvecelle.
 D'une capacité maximale de 200 personnes environ, elle se compose d'une salle principale, d'un local de rangement, d'une cuisine avec tout le matériel necéssaire (réfrigérateur, machine à laver la vaiselle, etc...), de toilettes hommes et femmes pour le public, d'un hall d'accueil et d'un bar sans oublier un local régie.
@@ -26,6 +28,8 @@ Elle est composée de 12 podiums de 1 x 2 mètres.
 Profondeur de la scène 4 mètres.
 Largeur 6 mètres.
 Le podium est haut de 0.80 mètres, il reste ainsi 2.20 sous plafond.
+
+
 
 ## L'inventaire du matériel
 

@@ -35,20 +35,20 @@ Le podium est haut de 0.80 mètres, il reste ainsi 2.20 sous plafond.
 
 **Son**
 
- * 2 trépieds Enceinte : Ref SPS-502 Marque Dteck
- * 1 Table de lecture et mixage pour carte SD
- * 2 enceintes Yamaha amplifiées avec câble jack 5 mètres et 8 mètres ( mal/mal )
- * 1 table de mixage audio MX 1424 de Marque INTER M  
+* 2 trépieds Enceinte : Ref SPS-502 Marque Dteck
+* 1 Table de lecture et mixage pour carte SD
+* 2 enceintes Yamaha amplifiées avec câble jack 5 mètres et 8 mètres ( mal/mal )
+* 1 table de mixage audio MX 1424 de Marque INTER M
  
  **Lumières**
 
 * 9 Projecteurs de Marque COEMAR 1000 w Base Gx9.5 COD 4016
-*  5 PAR 56 avec lampe 300w ref : GE 300par56/NSP
-*  1 Table de mixage 24 canaux Dmx de Marque Contest
-*  4 barres de puissances( Power Barre - 4 ) de Marque Contest
-*  2 trépieds Power Barre
-*  9 supports filtres couleurs pour projecteur
-*  8 cables DMX
+* 5 PAR 56 avec lampe 300w ref : GE 300par56/NSP
+* 1 Table de mixage 24 canaux Dmx de Marque Contest
+* 4 barres de puissances( Power Barre - 4 ) de Marque Contest
+* 2 trépieds Power Barre
+* 9 supports filtres couleurs pour projecteur
+* 8 cables DMX
 
 
 [dossier-inscription]: https://jekyllrb.com/docs/home

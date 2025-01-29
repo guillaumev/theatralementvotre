@@ -31,7 +31,7 @@ Le podium est haut de 0.80 mètres, il reste ainsi 2.20 sous plafond.
 
 
 
-## L'inventaire du matériel
+## L'inventaire du matériel  
 
 **Son**
 
@@ -40,7 +40,7 @@ Le podium est haut de 0.80 mètres, il reste ainsi 2.20 sous plafond.
 * 2 enceintes Yamaha amplifiées avec câble jack 5 mètres et 8 mètres ( mal/mal )
 * 1 table de mixage audio MX 1424 de Marque INTER M
  
- **Lumières**
+**Lumières**
 
 * 9 Projecteurs de Marque COEMAR 1000 w Base Gx9.5 COD 4016
 * 5 PAR 56 avec lampe 300w ref : GE 300par56/NSP

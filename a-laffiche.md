@@ -3,7 +3,9 @@ layout: page
 title: A l'affiche
 permalink: /a-laffiche/
 ---
-![Flyer]({{site.baseurl}}/flyer2024-page2.png)
+
+![affiche-palais.jpeg]({{site.baseurl}}/affiche-palais.jpeg)
+
 
 ### Comédie hilarante!
 **Auteur : Vivien L'heraux**  

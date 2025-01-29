@@ -17,10 +17,10 @@ Yesdy Viguier-Just: Comédienne
 Christina Da Silva: Comédienne  
 Gisèle Martin: Comédienne  
 Sylvie: Comédienne  
-Jean-Marc Perez: Technicien  
+Marc Perez: Technicien  
 
 ## Merci aux "mac gyvers féminins et masculins" sans qui rien ne serait possible !
-Véronique, Guillaume Viguier-Just, Magali Perez, Fred Charpy, Nathalie Schelsohn
+Magali Perez, Fred Charpy, Nathalie Schelsohn Guillaume Viguier-Just, Jean-Marc
 
 ![photo-troupe.jpg]({{site.baseurl}}/photo-troupe.jpg)
 

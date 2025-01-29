@@ -33,7 +33,7 @@ Le podium est haut de 0.80 mètres, il reste ainsi 2.20 sous plafond.
 
 ## L'inventaire du matériel
 
-Son
+**Son**
 
  * 2 trépieds Enceinte : Ref SPS-502 Marque Dteck
  * 1 Table de lecture et mixage pour carte SD

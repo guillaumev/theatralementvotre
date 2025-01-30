@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Association Théatrâle de Neuvecelle
 domain: guillaumev.github.io
 url: https://guillaumev.github.io
-  #baseurl: /theatralementvotre # the subpath of your site, e.g. /blog
+baseurl: /theatralementvotre # the subpath of your site, e.g. /blog
 #port: 4001
 #twitter_username: jekyllrb
 #github_username:  jekyll

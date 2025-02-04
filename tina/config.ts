@@ -16,7 +16,7 @@ export default defineConfig({
   token: process.env.TINA_TOKEN,
 
   build: {
-    outputFolder: "_site/admin",
+    outputFolder: "admin",
     publicFolder: "./",
     basePath: "theatralementvotre"
   },

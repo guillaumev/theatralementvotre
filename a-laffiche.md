@@ -5,11 +5,13 @@ permalink: /a-laffiche/
 background: /assets/img/affiche-palais.jpeg
 ---
 
-![](/assets/img/affiche-palais.jpeg)
+<div class="row">
+    <div class="col-6" markdown="1">
 
-### Comédie hilarante!
+### Comédie hilarante
 
-**Auteur : Vivien L'heraux**\
+**Auteur : Vivien L'heraux**
+
 **Public : Tout public**
 
 Les comédiens répètent, tant bien que mal, une pièce qu’ils joueront demain soir, pour la première fois.
@@ -20,23 +22,22 @@ Forcément, toutes les conditions sont réunies pour que le fiasco soit au rende
 
 ## À vos agendas!
 
-**Samendi 08 février 20h30**\
-Théâtre de la Rastaquouère\
+**Samedi 08 février 20h30**<br>
+Théâtre de la Rastaquouère<br>
 7 Av. d'Abondance, 74500 Évian-les-Bains
 
-**Samendi 22 février 20h30**\
-Palais des Festivités d'Evian\
+**Samedi 22 février 20h30**<br>
+Palais des Festivités d'Evian<br>
 Pl. Peintre Charles Cottet, 74500 Évian-les-Bains
 
-**Samendi 29 Mars 20h30**\
+**Samedi 29 Mars 20h30**<br>
 Maxilly
 
-**Samendi 05 Avril 20h30**\
+**Samedi 05 Avril 20h30**<br>
 Cervens
 
-![1000034546.jpg]({{site.baseurl}}/1000034546.jpg) ![1000034539.jpg]({{site.baseurl}}/1000034539.jpg) ![1000034526.jpg]({{site.baseurl}}/1000034526.jpg)
-![1000034505.jpg]({{site.baseurl}}/1000034505.jpg)
-
-## Pièces jouées
-
--Les Bonobos
+</div>
+    <div class="col-6">
+        <img src="/assets/img/affiche-palais.jpeg" alt="Affiche" />
+    </div>
+</div>

@@ -1,7 +1,7 @@
 ---
 layout: home
 published: true
-background: bg-theater.jpg
+background: /assets/img/bg-theater.jpg
 ---
 
 Nous sommes une troupe qui peut exister grâce à l’énergie d’une fidèle équipe de bénévoles qui se retrouve aussi pour participer au Carnaval d’Évian, aux Escales Gourmandes ou au Marchés Nocturnes...

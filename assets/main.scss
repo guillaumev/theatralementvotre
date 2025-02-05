@@ -12,6 +12,12 @@
   background: #212529;
 }
 
+#mainNav .navbar-brand,
+#mainNav .navbar-toggler,
+.navbar-light .navbar-nav .nav-link {
+  color: white;
+}
+
 .page-heading h1 {
   display: none;
 }

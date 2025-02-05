@@ -38,6 +38,6 @@ Cervens
 
 </div>
     <div class="col-6">
-        <img src="/assets/img/affiche-palais.jpeg" alt="Affiche" />
+        <img src="{{site.baseurl}}/assets/img/affiche-palais.jpeg" alt="Affiche" />
     </div>
 </div>

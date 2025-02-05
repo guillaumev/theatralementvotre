@@ -6,7 +6,10 @@ background: /assets/img/affiche-palais.jpeg
 ---
 
 <div class="row">
-    <div class="col-6" markdown="1">
+    <div class="col-lg-6">
+        <img src="{{site.baseurl}}/assets/img/affiche-palais.jpeg" alt="Affiche" />
+    </div>
+    <div class="col-lg-6" markdown="1">
 
 ### Comédie hilarante
 
@@ -37,7 +40,4 @@ Maxilly
 Cervens
 
 </div>
-    <div class="col-6">
-        <img src="{{site.baseurl}}/assets/img/affiche-palais.jpeg" alt="Affiche" />
-    </div>
 </div>

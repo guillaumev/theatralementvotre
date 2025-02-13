@@ -19,6 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Association Théatrâle de Neuvecelle
 domain: guillaumev.github.io
 url: https://guillaumev.github.io
+logo: "/assets/img/logo.png"
+
 #baseurl: /theatralementvotre # the subpath of your site, e.g. /blog
 #port: 4001
 #twitter_username: jekyllrb
@@ -26,9 +28,9 @@ url: https://guillaumev.github.io
 
 # Build settings
 markdown: kramdown
-remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 plugins:
-  - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -41,3 +43,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+include: ["_pages"]
+
+minimal_mistakes_skin: "default"

@@ -1,0 +1,11 @@
+main:
+  - title: "Accueil"
+    url: /
+  - title: "A l'affiche"
+    url: /a-laffiche
+  - title: "Festival"
+    url: /festival
+  - title: "Rejoignez-nous"
+    url: /rejoignez-nous
+  - title: "Contact"
+    url: /contact

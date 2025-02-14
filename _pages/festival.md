@@ -3,8 +3,7 @@ layout: splash
 title: Festival
 permalink: /festival
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: 0
   overlay_image: /assets/img/inscriptions.png
 intro:
   - excerpt: >
@@ -15,8 +14,8 @@ feature_row:
     alt: "Flyer 2024"
     title: "Neuvescène 2025"
     excerpt: "Cette année, Neuvescène 25 prend un nouveau format, sur deux week-ends et davantage en fin d’après-midi et en soirée. Le comité d’organisation et tous les bénévoles de l’Association Théâtrale de Neuvecelle vous souhaitent de belles découvertes et des moments d’enchantement !"
-    url: "#test-link"
-    btn_label: "Découvrez le programme"
+    url: /assets/dossier_de_candidature.pdf
+    btn_label: "Dossier de candidature"
     btn_class: "btn--info"
 ---
 

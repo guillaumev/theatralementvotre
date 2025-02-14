@@ -4,7 +4,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/img/header2.png
+  overlay_image: /assets/img/bg-theater.jpg
 feature_row:
   - image_path: /assets/img/photo-troupe.jpg
     alt: "Troupe Theatralement Votre"

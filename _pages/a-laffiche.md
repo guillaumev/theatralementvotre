@@ -5,7 +5,7 @@ permalink: /a-laffiche/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/img/affiche-palais.jpeg
+  overlay_image: /assets/img/a-laffiche.jpg
 feature_row:
   - image_path: /assets/img/affiche-palais.jpeg
     alt: "A quelle heure on ment"

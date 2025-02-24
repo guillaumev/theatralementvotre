@@ -12,6 +12,8 @@ search: false
     visibility: hidden
 }
 
-.page__hero--overlay {
-    min-height: 500px
+@media screen and (min-width: 960px) {
+    .page__hero--overlay {
+        min-height: 500px
+    }   
 }

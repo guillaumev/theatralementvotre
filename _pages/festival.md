@@ -12,8 +12,8 @@ feature_row:
   - image_path: /assets/img/flyer2024-page2.png
     alt: "Flyer 2024"
     title: "Neuvescène'25"
-    excerpt: "Dates : 03, 04, 05 et 10, 11 Octobre 2025
-Lieu : Salle d'animation de Neuvecelle 
+    excerpt: "03, 04, 05 et 10, 11 Octobre 2025
+Salle d'animation de Neuvecelle 
 904 Av. Du Léman 
 74500 Neuvecelle 
 

@@ -8,7 +8,7 @@ header:
 intro:
   - excerpt: >
       15ème Festival de Théâtre Amateur 
-feature_row:
+feature_row type="left":
   - image_path: /assets/img/inscriptions2025.png
     alt: "Flyer 2024"
     title: "Neuvescène'25"

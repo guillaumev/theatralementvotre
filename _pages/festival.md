@@ -25,7 +25,6 @@ Assistez à des discussions et des tables rondes avec des artistes, et metteurs 
 
 Ce festival est une occasion parfaite pour découvrir de nouveaux talents, soutenir la scène théâtrale et partager des moments inoubliables avec d'autres passionnés de théâtre. Que vous soyez un amateur de théâtre ou un artiste en herbe, "Neuvescène" vous promet une expérience enrichissante et divertissante.
 
-Billetterie :
 Les billets seront disponibles à la vente à partir du 19 septembre 2025"
 
 Ne manquez pas cette chance de vivre le théâtre sous toutes ses formes !

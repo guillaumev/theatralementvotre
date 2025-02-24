@@ -20,8 +20,8 @@ Le Festival de Théâtre Amateur "Neuvescène" est un événement annuel qui cé
 Profitez de spectacles variés, allant de la comédie à la tragédie, en passant par le théâtre contemporain et les pièces classiques.
 Assistez à des discussions et des tables rondes avec des artistes, et metteurs en scène pour échanger sur le monde du théâtre amateur.
 Ce festival est une occasion parfaite pour découvrir de nouveaux talents, soutenir la scène théâtrale et partager des moments inoubliables avec d'autres passionnés de théâtre. Que vous soyez un amateur de théâtre ou un artiste en herbe, "Neuvescène" vous promet une expérience enrichissante et divertissante.
-Les billets seront disponibles à la vente à partir du 19 septembre 2025"
-Ne manquez pas cette chance de vivre le théâtre sous toutes ses formes !
+Les billets seront disponibles à la vente à partir du 19 septembre 2025
+Ne manquez pas cette chance de vivre le théâtre sous toutes ses formes !"
 
     url: /assets/dossier_de_candidature.pdf
     btn_label: "Dossier de candidature"

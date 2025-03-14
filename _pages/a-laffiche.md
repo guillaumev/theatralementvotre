@@ -34,11 +34,12 @@ feature_row:
       Pl. Peintre Charles Cottet, 74500 Évian-les-Bains<br />
 
       **Samedi 29 Mars 20h30**<br />
-      Salle des fêtes de Maxilly<br />
+      Salle des fêtes de Maxilly<br>
+      167 Chem. du Pré de la Fin, 74500 Maxilly
 
       **Samedi 05 Avril 20h30**<br />
       Salle polyvalente de Cervens<br>
-      74550 Cervens
+      621 route des colines, 74550 Cervens
 
     url: "#test-link"
     btn_label: "Découvrez le programme"

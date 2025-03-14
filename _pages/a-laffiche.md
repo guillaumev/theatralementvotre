@@ -36,8 +36,7 @@ feature_row:
       **Samedi 29 Mars 20h30**<br />
       Salle des fêtes de Maxilly<br>
       167 Chem. du Pré de la Fin, 74500 Maxilly<br />
-      Visit https://github.com
-
+      
       **Samedi 05 Avril 20h30**<br />
       Salle polyvalente de Cervens<br>
       621 route des colines, 74550 Cervens

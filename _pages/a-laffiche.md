@@ -29,14 +29,16 @@ feature_row:
       Théâtre de la Rastaquouère<br>
       7 Av. d'Abondance, 74500 Évian-les-Bains<br />
 
+
       **Samedi 22 février 20h30**<br />
       Palais des Festivités d'Evian<br>
       Pl. Peintre Charles Cottet, 74500 Évian-les-Bains<br />
 
+
       **Samedi 29 Mars 20h30**<br />
       Salle des fêtes de Maxilly<br>
       167 Chem. du Pré de la Fin, 74500 Maxilly<br>
-      [Réservez vos billets ICI](https://www.helloasso.com/associations/association-pour-les-ecoliers-de-maxilly-apem/evenements/theatre-a-quelle-heure-on-ment-2025)).<br />
+      [Réservez vos billets ICI](https://www.helloasso.com/associations/association-pour-les-ecoliers-de-maxilly-apem/evenements/theatre-a-quelle-heure-on-ment-2025).<br />
     
       
       **Samedi 05 Avril 20h30**<br />

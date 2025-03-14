@@ -13,7 +13,7 @@ troupe:
     alt: "Notre troupe"
     title: "Une question sur notre troupe ?"
     excerpt: >
-      Théatralement Votre
+      Théatralement Votre<br />
       troupe.theatralementvotre74@gmail.com
 
       ## Notre adresse

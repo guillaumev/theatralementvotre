@@ -41,9 +41,9 @@ feature_row:
       Salle polyvalente de Cervens<br>
       621 route des colines, 74550 Cervens
 
-    url: "#test-link"
+    <url: "#test-link"
     btn_label: "Découvrez le programme"
-    btn_class: "btn--info"
+    btn_class: "btn--info">
 ---
 
 {% include feature_row type="left" %}

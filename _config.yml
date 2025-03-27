@@ -18,7 +18,7 @@ email: info@theatralementvotre.fr
 description: >- # this means to ignore newlines until "baseurl:"
   Association Théatrâle de Neuvecelle
 domain: guillaumev.github.io
-url: https://www.theatralementvotre.org
+url: https://www.theatralementvotre.fr
 logo: "/assets/img/logo.png"
 
 #baseurl: /theatralementvotre # the subpath of your site, e.g. /blog

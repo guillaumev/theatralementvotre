@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: Rejoignez-nous
-permalink: /rejoignez-nous/
+title: Actualités
+permalink: /actualites/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

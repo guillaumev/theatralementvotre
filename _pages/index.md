@@ -9,7 +9,7 @@ feature_row:
   - image_path: /assets/img/photo-troupe.jpg
     alt: "Troupe Theatralement Votre"
     title: "La troupe Theatralement Votre"
-    excerpt: >
+    excerpt:>
     
      ## Qui sommes nous?
     

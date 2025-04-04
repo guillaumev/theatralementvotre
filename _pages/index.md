@@ -17,20 +17,19 @@ feature_row:
       Les jeunes peuvent nous rejoindre en autonomie dès 16 ans.<br />
       Nous ne donnons pas de cours, nous sommes tous des amateurs avec plus ou moins d’expérience!<br />
 troupe:
-  excerpt: >
-    ## Tantôt comédiens, tantôt techniciens mais toujours passionnés !
-       * Frédéric Duclos: President et comédien
-       * Nicole Robain: Secretaire et metteuse en scène  
-       * José Robain: Technicien et comédien  
-       * Anne-Sophie Morel: Comédienne  
-       * Stéphane Morel: Comédien  
-       * Philippe Charpy: Comédien  
-       * Marie-Cécile Raoulx: Comédienne  
-       * Yesdy Viguier-Just: Comédienne  
-       * Christina Da Silva: Comédienne  
-       * Gisèle Martin: Comédienne  
-       * Sylvie: Comédienne  
-       * Marc Perez: Technicien
+  - excerpt: "## Tantôt comédiens, tantôt techniciens mais toujours passionnés !
+      * Frédéric Duclos: President et comédien
+      * Nicole Robain: Secretaire et metteuse en scène  
+      * José Robain: Technicien et comédien  
+      * Anne-Sophie Morel: Comédienne  
+      * Stéphane Morel: Comédien  
+      * Philippe Charpy: Comédien  
+      * Marie-Cécile Raoulx: Comédienne  
+      * Yesdy Viguier-Just: Comédienne  
+      * Christina Da Silva: Comédienne  
+      * Gisèle Martin: Comédienne  
+      * Sylvie: Comédienne  
+      * Marc Perez: Technicien
 
       ## Merci aux "mac gyvers féminins et masculins" sans qui rien ne serait possible !
         Magali Perez, Fred Charpy, Nathalie Schelsohn, Guillaume Viguier-Just, Jean-Marc

@@ -6,8 +6,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/img/bg-theater.jpg
 intro:
-  alt: "Theatralement Votre"
-  title: "Theatralement Votre"
+  - excerpt: "# Theatralement Votre"
 feature_row:
   - image_path: /assets/img/photo-troupe.jpg
     excerpt: >

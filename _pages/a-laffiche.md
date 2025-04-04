@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/img/a-laffiche.jpg
 feature_row:
-  - image_path: /assets/img/affiche-maxilly.jpeg
+  - image_path: /assets/img/cervens.jpeg
     alt: "A quelle heure on ment"
     title: "A quelle heure on ment"
     excerpt: >

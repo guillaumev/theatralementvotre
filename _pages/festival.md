@@ -26,7 +26,9 @@ feature_row:
       Ne manquez pas cette chance de vivre le théâtre sous toutes ses formes !
     url: /assets/dossier_de_candidature.pdf
     btn_label: "Dossier de candidature"
-    btn_class: "btn--info"
+    btn_class: "btn--info"<br>
+
+    ## Plan de la Salle
 ---
 
 {% include feature_row id="intro" type="center" %}

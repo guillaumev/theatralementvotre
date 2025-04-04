@@ -5,7 +5,7 @@ main:
     url: /a-laffiche
   - title: "Festival"
     url: /festival
-  - title: "Rejoignez-nous"
-    url: /rejoignez-nous
+  - title: "Actualités"
+    url: /actualites
   - title: "Contact"
     url: /contact

@@ -8,7 +8,7 @@ header:
 feature_row:
   - image_path: /assets/img/inscriptions2025.png
     alt: "Flyer 2024
-      title: "Neuvescène'25"
+    title: "Neuvescène'25"
     excerpt: >
       03, 04, 05 et 10, 11 Octobre 2025<br><br>
 

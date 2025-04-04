@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: Festival
-permalink: /festival
+permalink: /festival/
 header:
   overlay_filter: 0
   overlay_image: /assets/img/inscriptions.png 

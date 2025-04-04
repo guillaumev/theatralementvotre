@@ -32,4 +32,5 @@ feature_row:
       Magali Perez, Fred Charpy, Nathalie Schelsohn, Guillaume Viguier-Just, Jean-Marc
 ---
 
+{% include feature_row id="intro" type="center" %}
 {% include feature_row type="left" %}

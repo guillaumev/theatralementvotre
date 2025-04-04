@@ -3,7 +3,8 @@ layout: splash
 title: Festival
 permalink: /festival/
 header:
-  overlay_filter: 0
+  overlay_color: "#000"
+  overlay_filter: "0.5"
   overlay_image: /assets/img/inscriptions.png 
 feature_row:
   -image_path: /assets/img/inscriptions2025.png

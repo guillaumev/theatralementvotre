@@ -11,13 +11,11 @@ feature_row:
   - image_path: /assets/img/photo-troupe.jpg
     excerpt: >
       Nous sommes une troupe qui peut exister grâce à l’énergie d’une fidèle équipe de bénévoles qui se retrouve aussi pour participer au Carnaval d’Évian, aux Escales Gourmandes ou au Marchés Nocturnes...<br />
-    
       Une troupe théâtrale ne se limite pas au comédiens, il y a de la place pour des costumiers, des décorateurs ou des techniciens sons et lumières… et évidement on peut décliner tous ces rôles au féminin !<br />
-    
       Les jeunes peuvent nous rejoindre en autonomie dès 16 ans.<br />
       Nous ne donnons pas de cours, nous sommes tous des amateurs avec plus ou moins d’expérience!<br />
 troupe:
-  - excerpt: "## Tantôt comédiens, tantôt techniciens mais toujours passionnés !"
+    excerpt: "## Tantôt comédiens, tantôt techniciens mais toujours passionnés !"
       * Frédéric Duclos: President et comédien
       * Nicole Robain: Secretaire et metteuse en scène  
       * José Robain: Technicien et comédien  

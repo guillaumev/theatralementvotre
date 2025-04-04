@@ -14,6 +14,7 @@ feature_row:
      Salle d'animation de Neuvecelle <br>
      904 Av. Du Léman <br>
      74500 Neuvecelle <br>
+
      Le Festival de Théâtre Amateur "Neuvescène" est un événement annuel qui célèbre la créativité et le talent des artistes amateurs. Ce festival offre une plateforme unique aux compagnies de théâtre amateur pour présenter leurs œuvres originales et leurs adaptations de classiques.
       Profitez de spectacles variés, allant de la comédie à la tragédie, en passant par le théâtre contemporain et les pièces classiques.
       Assistez à des discussions et des tables rondes avec des artistes, et metteurs en scène pour échanger sur le monde du théâtre amateur.

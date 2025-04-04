@@ -40,4 +40,4 @@ troupe:
 ---
 {% include feature_row id="intro" type="center" %}
 {% include feature_row type="left" %}
-{% include feature_row id="troupe" type="left" %}
+{% include feature_row id="troupe" type="right" %}

@@ -32,7 +32,7 @@ troupe:
       * Marc Perez: Technicien
 
       ## Merci aux "mac gyvers féminins et masculins" sans qui rien ne serait possible !
-        Magali Perez, Fred Charpy, Nathalie Schelsohn, Guillaume Viguier-Just, Jean-Marc
+        Magali Perez, Fred Charpy, Nathalie Schelsohn, Guillaume Viguier-Just, Jean-Marc"
 
 ---
 {% include feature_row id="intro" type="center" %}

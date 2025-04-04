@@ -29,8 +29,7 @@ Tantôt comédiens, tantôt techniciens mais toujours passionnés !
  * Marc Perez: Technicien
 
    ## Merci aux "mac gyvers féminins et masculins" sans qui rien ne serait possible !
-   
 Magali Perez, Fred Charpy, Nathalie Schelsohn, Guillaume Viguier-Just, Jean-Marc
----
+ ---
 
 {% include feature_row type="left" %}

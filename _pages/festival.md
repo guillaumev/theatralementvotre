@@ -27,8 +27,6 @@ feature_row:
     url: /assets/dossier_de_candidature.pdf
     btn_label: "Dossier de candidature"
     btn_class: "btn--info"<br>
-
-    ## Plan de la Salle
 ---
 
 {% include feature_row id="intro" type="center" %}

@@ -28,6 +28,5 @@ Tantôt comédiens, tantôt techniciens mais toujours passionnés !
  * Gisèle Martin: Comédienne  
  * Sylvie: Comédienne  
  * Marc Perez: Technicien
----
 
 {% include feature_row type="left" %}

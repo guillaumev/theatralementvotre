@@ -6,7 +6,7 @@ header:
   overlay_filter: 0
   overlay_image: /assets/img/inscriptions.png 
 feature_row:
-  - image_path: /assets/img/inscriptions2025.png
+  -image_path: /assets/img/inscriptions2025.png
   alt: "Neuvescène'25"
   title: "Neuvescène'25"
   excerpt: >

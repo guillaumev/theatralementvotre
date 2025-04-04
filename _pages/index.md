@@ -26,10 +26,6 @@ Tantôt comédiens, tantôt techniciens mais toujours passionnés !
  * Gisèle Martin: Comédienne  
  * Sylvie: Comédienne  
  * Marc Perez: Technicien
-
-## Merci aux "mac gyvers féminins et masculins" sans qui rien ne serait possible !<br />
-Magali Perez, Fred Charpy, Nathalie Schelsohn, Guillaume Viguier-Just, Jean-Marc<br>
-
 ---
 
 {% include feature_row type="left" %}

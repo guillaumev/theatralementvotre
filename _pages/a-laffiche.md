@@ -3,8 +3,7 @@ layout: splash
 title: A l'affiche
 permalink: /a-laffiche/
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: 0
   overlay_image: /assets/img/a-laffiche.jpg
 feature_row:
   - image_path: /assets/img/cervens.jpg

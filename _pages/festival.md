@@ -27,6 +27,7 @@ feature_row:
     url: /assets/dossier_de_candidature.pdf
     btn_label: "Dossier de candidature"
     btn_class: "btn--info"
+- image_path: /assets/img/Plan.jpg
 ---
 
 {% include feature_row id="intro" type="center" %}

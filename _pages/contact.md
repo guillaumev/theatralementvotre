@@ -3,8 +3,7 @@ layout: splash
 title: Contact
 permalink: /contact/
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: 0
   overlay_image: /assets/img/header1.png
 intro:
   - excerpt: "# Contactez nous"

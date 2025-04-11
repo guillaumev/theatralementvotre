@@ -5,7 +5,7 @@ permalink: /actualites/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/img/photo-troupe.jpg
+  overlay_image: /assets/img/Carnaval_2020_1.jpeg
 ---
 # Rejoignez-nous
 ## Qui sommes nous?

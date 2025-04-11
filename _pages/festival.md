@@ -27,11 +27,7 @@ feature_row:
     url: /assets/dossier_de_candidature.pdf
     btn_label: "Dossier de candidature"
     btn_class: "btn--info"
-    plan:
-  - image_path: /assets/img/Plan.jpg
-    title: "Plan de la salle"
 ---
 
 {% include feature_row id="intro" type="center" %}
 {% include feature_row type="left" %}
-{% include plan id="intro" type="left" %}

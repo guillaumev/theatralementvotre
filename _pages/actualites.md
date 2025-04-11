@@ -4,7 +4,7 @@ title: Actualités
 permalink: /actualites/
 header:
   overlay_filter: 0
-  overlay_image: /assets/img/Carnaval_2020_1.jpeg
+  overlay_image: /assets/img/actualites.jpeg
 ---
 # Rejoignez-nous
 ## Qui sommes nous?

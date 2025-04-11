@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-header: /"Theatralement Votre"
+header: "Theatralement Votre"
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/img/bg-theater.jpg

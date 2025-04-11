@@ -7,6 +7,7 @@ header:
   overlay_image: /assets/img/inscriptions.png 
 feature_row:
   - image_path: /assets/img/inscriptions2025.png
+  - image_path: /assets/img/Plan.jpg
     alt: "Flyer 2024"
     title: "Neuvescène'25"
     excerpt: >
@@ -27,7 +28,6 @@ feature_row:
     url: /assets/dossier_de_candidature.pdf
     btn_label: "Dossier de candidature"
     btn_class: "btn--info"
-- image_path: /assets/img/Plan.jpg
 ---
 
 {% include feature_row id="intro" type="center" %}

@@ -1,10 +1,10 @@
 ---
 layout: splash
 permalink: /
-header: # Theatralement Votre
+header: 
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/img/bg-theater.jpg
+  overlay_image: ![](/assets/img/bg-theater.jpg "Theatralement Votre")
 feature_row:
   - image_path: /assets/img/photo-troupe.jpg
     alt: "Theatralement Votre"

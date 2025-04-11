@@ -41,9 +41,8 @@ feature_row:
       
       **Samedi 05 Avril 20h30**<br />
       Salle polyvalente de Cervens<br>
-      621 route des colines, 74550 Cervens<br>
-      [Réservez vos billets ICI](https://www.helloasso.com/associations/association-theatrale-de-neuvecelle/evenements/theatre-cervens)<br />
-    
+      621 route des colines, 74550 Cervens<br />
+        
 ---
 
 {% include feature_row type="left" %}

@@ -3,8 +3,7 @@ layout: splash
 title: Actualités
 permalink: /actualites/
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: 0
   overlay_image: /assets/img/Carnaval_2020_1.jpeg
 ---
 # Rejoignez-nous

@@ -27,7 +27,21 @@ feature_row:
     url: /assets/dossier_de_candidature.pdf
     btn_label: "Dossier de candidature"
     btn_class: "btn--info"
+plan:
+  - image_path: /assets/img/Plan.jpg
+    alt: "Plan Neuvescene"
+    title: "Plan de la salle"
+cote_cours:
+  - image_path: /assets/img/cote-cour.jpeg
+    alt: "Côté cours"
+    title: "Côté cours"
+cote_jardin:
+  - image_path: /assets/img/cote-jardin.jpeg
+    alt: "Côté jardin"
+    title: "Côté jardin"
 ---
 
-{% include feature_row id="intro" type="center" %}
 {% include feature_row type="left" %}
+{% include feature_row id="plan" type="center" %}
+{% include feature_row id="cote_cours" type="center" %}
+{% include feature_row id="cote_jardin" type="center" %}

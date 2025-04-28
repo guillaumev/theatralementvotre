@@ -34,7 +34,7 @@ plan:
 cote_cours:
   - image_path: /assets/img/cote-cour.jpeg
     alt: "Côté cours"
-    title: "Côté cours"
+    title: "Côté cour"
 cote_jardin:
   - image_path: /assets/img/cote-jardin.jpeg
     alt: "Côté jardin"

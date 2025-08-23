@@ -24,8 +24,8 @@ feature_row:
       Les billets seront disponibles à la vente à partir du 19 septembre 2025<br>
 
       Ne manquez pas cette chance de vivre le théâtre sous toutes ses formes !
-    url: /assets/dossier_de_candidature.pdf
-    btn_label: "Dossier de candidature"
+    url: https://www.helloasso.com/associations/association-theatrale-de-neuvecelle/evenements/neuvescene-25
+    btn_label: "Acheter des billets"
     btn_class: "btn--info"
 plan:
   - image_path: /assets/img/Plan.jpg

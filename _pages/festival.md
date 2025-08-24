@@ -24,14 +24,17 @@ feature_row:
 
     **Une programmation éclectique**<br />
       Le programme du festival a été conçu pour offrir une expérience théâtrale accessible à tous, mêlant tradition et modernité, réflexion et divertissement. Que vous soyez passionné de               théâtre, curieux ou simple promeneur, vous y trouverez de quoi nourrir votre imagination et vos émotions.
+    
 
     **Un lieu de rencontres**<br />
       Des rencontres avec les artistes pour échanger autour des œuvres présentées.
       Des temps festifs et conviviaux, pour commencer et prolonger les soirées dans une ambiance chaleureuse dans un espace convivial avec petite restauration et buvette.
+    
 
     **Informations pratiques**<br />
       Pass festival & tarifs réduits disponibles.
       Accessibilité : site adapté aux personnes à mobilité réduite.
+    
 
     **Neuvescène vous attend**<br />
       Rejoignez-nous pour célébrer le théâtre sous toutes ses formes, partager des émotions, réfléchir, rire et vibrer ensemble.

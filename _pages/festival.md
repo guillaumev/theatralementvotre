@@ -29,7 +29,7 @@ feature_row:
          Des temps festifs et conviviaux, pour commencer et prolonger les soirées dans une ambiance chaleureuse dans un espace convivial avec petite restauration et buvette.
          
        **Informations pratiques**<br /> 
-         Pass festival & tarifs réduits disponibles
+         Pass festival & tarifs réduits disponibles.
          Accessibilité : site adapté aux personnes à mobilité réduite
 
        **Neuvescène vous attend**<br />  

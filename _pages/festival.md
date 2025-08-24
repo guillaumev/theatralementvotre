@@ -16,3 +16,4 @@ feature_row:
       904 Av. Du Léman <br>
       74500 Neuvecelle <br>
       <br>
+---

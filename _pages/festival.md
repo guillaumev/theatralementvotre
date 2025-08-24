@@ -30,7 +30,7 @@ feature_row:
          
        **Informations pratiques**<br /> 
          Pass festival & tarifs réduits disponibles.
-         Accessibilité : site adapté aux personnes à mobilité réduite
+         Accessibilité : site adapté aux personnes à mobilité réduite.
 
        **Neuvescène vous attend**<br />  
          Rejoignez-nous pour célébrer le théâtre sous toutes ses formes, partager des émotions, réfléchir, rire et vibrer ensemble.

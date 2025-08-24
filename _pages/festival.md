@@ -37,7 +37,6 @@ feature_row:
          Le théâtre vous attend, et la scène est à vous !
          
       
-    
     url: https://www.helloasso.com/associations/association-theatrale-de-neuvecelle/evenements/neuvescene-25
     btn_label: "Acheter des billets"
     btn_class: "btn--info"

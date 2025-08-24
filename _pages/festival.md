@@ -17,17 +17,20 @@ feature_row:
       74500 Neuvecelle <br>
       <br>
       Bienvenue à la 15e édition du Festival de Théâtre amateur « NeuveScène’25 » un rendez-vous incontournable pour les amoureux de la scène, de l’émotion et de la création artistique !<br>
-       ## Tantôt comédiens, tantôt techniciens mais toujours passionnés !
-       * Frédéric Duclos: President et comédien
-       * Nicole Robain: Secretaire et metteuse en scène  
-       * José Robain: Technicien et comédien  
-       * Anne-Sophie Morel: Comédienne  
-       * Stéphane Morel: Comédien  
-       * Philippe Charpy: Comédien  
-       * Marie-Cécile Raoulx: Comédienne
+       * Où et quand ?
+         Le festival se déroule  le 03, 04, 05 et 10, 11 Octobre 2025 à  la salle d’animation de Neuvecelle un cadre unique qui devient, le temps de quelques jours, le théâtre vivant d’une                programmation riche, engagée et festive.
          
-      Les billets seront disponibles à la vente à partir du 19 septembre 2025<br>
-
+       * Une programmation éclectique
+         Le programme du festival a été conçu pour offrir une expérience théâtrale accessible à tous, mêlant tradition et modernité, réflexion et divertissement. Que vous soyez passionné de               théâtre, curieux ou simple promeneur, vous y trouverez de quoi nourrir votre imagination et vos émotions.
+         
+       * Un lieu de rencontres
+         Des rencontres avec les artistes pour échanger autour des œuvres présentées.
+         Des temps festifs et conviviaux, pour commencer et prolonger les soirées dans une ambiance chaleureuse dans un espace convivial avec petite restauration et buvette.
+         
+       * Informations pratiques
+         Pass festival & tarifs réduits disponibles
+         Accessibilité : site adapté aux personnes à mobilité réduite 
+         
       Ne manquez pas cette chance de vivre le théâtre sous toutes ses formes !
     url: https://www.helloasso.com/associations/association-theatrale-de-neuvecelle/evenements/neuvescene-25
     btn_label: "Acheter des billets"

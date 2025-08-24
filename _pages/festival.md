@@ -33,7 +33,8 @@ feature_row:
          Accessibilité : site adapté aux personnes à mobilité réduite
 
        **Neuvescène vous attend**<br />  
-         rejoignez-nous pour célébrer le théâtre sous toutes ses formes, partager des émotions, réfléchir, rire et vibrer ensemble, Le théâtre vous attend, et la scène est à vous !
+         Rejoignez-nous pour célébrer le théâtre sous toutes ses formes, partager des émotions, réfléchir, rire et vibrer ensemble.
+         Le théâtre vous attend, et la scène est à vous !
          
       
     

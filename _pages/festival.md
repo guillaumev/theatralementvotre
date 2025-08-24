@@ -1,61 +1,35 @@
 ---
 layout: splash
-title: Festival
-permalink: /festival
+title: Contact
+permalink: /contact/
 header:
   overlay_filter: 0
-  overlay_image: /assets/img/inscriptions.png 
-feature_row:
-  - image_path: /assets/img/affiche.png   
-    alt: "Flyer 2024"
-    title: "Neuvescène'25"
+  overlay_image: /assets/img/header1.png
+intro:
+  - excerpt: "# Contactez nous"
+troupe:
+  - image_path: /assets/img/photo-troupe.jpg
+    alt: "Notre troupe"
+    title: "Une question sur notre troupe ?"
     excerpt: >
-      03, 04, 05 et 10, 11 Octobre 2025<br><br>
+      Théatralement Votre<br />
+      troupe.theatralementvotre74@gmail.com
 
-      Salle d'animation de Neuvecelle <br>
-      904 Av. Du Léman <br>
-      74500 Neuvecelle <br>
-      <br>
-      Bienvenue à la 15e édition du Festival de Théâtre amateur « NeuveScène’25 » un rendez-vous incontournable pour les amoureux de la scène, de l’émotion et de la création artistique !<br>
+      ## Notre adresse
 
-       **Où et quand**<br />
-         Le festival se déroule  le 03, 04, 05 et 10, 11 Octobre 2025 à  la salle d’animation de Neuvecelle un cadre unique qui devient, le temps de quelques jours, le théâtre vivant d’une                programmation riche, engagée et festive.
-         
-       **Une programmation éclectique**<br />
-         Le programme du festival a été conçu pour offrir une expérience théâtrale accessible à tous, mêlant tradition et modernité, réflexion et divertissement. Que vous soyez passionné de               théâtre, curieux ou simple promeneur, vous y trouverez de quoi nourrir votre imagination et vos émotions.
-         
-       **Un lieu de rencontres**<br />
-         Des rencontres avec les artistes pour échanger autour des œuvres présentées.
-         Des temps festifs et conviviaux, pour commencer et prolonger les soirées dans une ambiance chaleureuse dans un espace convivial avec petite restauration et buvette.
-         
-       **Informations pratiques**<br /> 
-         Pass festival & tarifs réduits disponibles.
-         Accessibilité : site adapté aux personnes à mobilité réduite.
-
-       **Neuvescène vous attend**<br />  
-         Rejoignez-nous pour célébrer le théâtre sous toutes ses formes, partager des émotions, réfléchir, rire et vibrer ensemble.
-         Le théâtre vous attend, et la scène est à vous !
-         
-      
+      THEATRALEMENT VOTRE<br />
+      Association Théâtrale de Neuvecelle<br />
+      520 Av. de Maxilly, 74500 Neuvecelle
+festival:
+  - image_path: /assets/img/inscriptions.png
+    alt: "Neuvescene"
+    title: "Notre festival vous intéresse ?"
+    excerpt: >
+      Contactez-nous: neuvescene@gmail.com
     
-    url: https://www.helloasso.com/associations/association-theatrale-de-neuvecelle/evenements/neuvescene-25
-    btn_label: "Acheter des billets"
-    btn_class: "btn--info"
-plan:
-  - image_path: /assets/img/vend03.png
-    alt: "Première wee-kend"
-    title: "Première wee-kend"
-cote_cours:
-  - image_path: /assets/img/fest2.png
-    alt: "Deuxième wee-kend"
-    title: "Deuxième wee-kend avec la présence de Jean Paul Alègre, parrain de Neuvescène'25"
-cote_jardin:
-  - image_path: /assets/img/fest3.png
-    alt: "recapitulatif"
-    title: "Un rendez-vous riche en partages"
 ---
+{% include feature_row id="intro" type="center" %}
 
-{% include feature_row type="left" %}
-{% include feature_row id="plan" type="center" %}
-{% include feature_row id="cote_cours" type="center" %}
-{% include feature_row id="cote_jardin" type="center" %}
+{% include feature_row id="troupe" type="right" %}
+
+{% include feature_row id="festival" type="left" %}

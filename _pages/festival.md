@@ -17,5 +17,4 @@ feature_row:
       74500 Neuvecelle <br>
       <br>
       Bienvenue à la 15e édition du Festival de Théâtre amateur « NeuveScène’25 » un rendez-vous incontournable pour les amoureux de la scène, de l’émotion et de la création artistique !<br>
-
-    ---
+---

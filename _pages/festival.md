@@ -1,35 +1,19 @@
 ---
 layout: splash
-title: Contact
-permalink: /contact/
+title: Festival
+permalink: /festival
 header:
   overlay_filter: 0
-  overlay_image: /assets/img/header1.png
-intro:
-  - excerpt: "# Contactez nous"
-troupe:
-  - image_path: /assets/img/photo-troupe.jpg
-    alt: "Notre troupe"
-    title: "Une question sur notre troupe ?"
+  overlay_image: /assets/img/inscriptions.png 
+feature_row:
+  - image_path: /assets/img/affiche.png   
+    alt: "Flyer 2024"
+    title: "Neuvescène'25"
     excerpt: >
-      Théatralement Votre<br />
-      troupe.theatralementvotre74@gmail.com
+      03, 04, 05 et 10, 11 Octobre 2025<br><br>
 
-      ## Notre adresse
-
-      THEATRALEMENT VOTRE<br />
-      Association Théâtrale de Neuvecelle<br />
-      520 Av. de Maxilly, 74500 Neuvecelle
-festival:
-  - image_path: /assets/img/inscriptions.png
-    alt: "Neuvescene"
-    title: "Notre festival vous intéresse ?"
-    excerpt: >
-      Contactez-nous: neuvescene@gmail.com
-    
----
-{% include feature_row id="intro" type="center" %}
-
-{% include feature_row id="troupe" type="right" %}
-
-{% include feature_row id="festival" type="left" %}
+      Salle d'animation de Neuvecelle <br>
+      904 Av. Du Léman <br>
+      74500 Neuvecelle <br>
+      <br>
+      Bienvenue à la 15e édition du Festival de Théâtre amateur « NeuveScène’25 » un rendez-vous incontournable pour les amoureux de la scène, de l’émotion et de la création artistique !<br>

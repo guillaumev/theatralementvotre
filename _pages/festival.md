@@ -20,23 +20,4 @@ feature_row:
 
       **Où et quand**<br />
         Le festival se déroule  le 03, 04, 05 et 10, 11 Octobre 2025 à  la salle d’animation de Neuvecelle un cadre unique qui devient, le temps de quelques jours, le théâtre vivant d’une                programmation riche, engagée et festive.
-    
-
-    **Une programmation éclectique**<br />
-      Le programme du festival a été conçu pour offrir une expérience théâtrale accessible à tous, mêlant tradition et modernité, réflexion et divertissement. Que vous soyez passionné de               théâtre, curieux ou simple promeneur, vous y trouverez de quoi nourrir votre imagination et vos émotions.
-    
-
-    **Un lieu de rencontres**<br />
-      Des rencontres avec les artistes pour échanger autour des œuvres présentées.
-      Des temps festifs et conviviaux, pour commencer et prolonger les soirées dans une ambiance chaleureuse dans un espace convivial avec petite restauration et buvette.
-    
-
-    **Informations pratiques**<br />
-      Pass festival & tarifs réduits disponibles.
-      Accessibilité : site adapté aux personnes à mobilité réduite.
-    
-
-    **Neuvescène vous attend**<br />
-      Rejoignez-nous pour célébrer le théâtre sous toutes ses formes, partager des émotions, réfléchir, rire et vibrer ensemble.
-      Le théâtre vous attend, et la scène est à vous !
----
+    ---

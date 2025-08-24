@@ -41,8 +41,8 @@ feature_row:
     url: https://www.helloasso.com/associations/association-theatrale-de-neuvecelle/evenements/neuvescene-25
     btn_label: "Acheter des billets"
     btn_class: "btn--info"
-plan:
-  - image_path: /assets/img/fest1.png
+premier-w:
+  - image_path: /assets/img/ven03.png
     alt: "Première wee-kend"
     title: "Première wee-kend"
 cote_cours:

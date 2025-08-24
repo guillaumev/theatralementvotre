@@ -17,7 +17,15 @@ feature_row:
       74500 Neuvecelle <br>
       <br>
       Bienvenue à la 15e édition du Festival de Théâtre amateur « NeuveScène’25 » un rendez-vous incontournable pour les amoureux de la scène, de l’émotion et de la création artistique !<br>
-
+       ## Tantôt comédiens, tantôt techniciens mais toujours passionnés !
+       * Frédéric Duclos: President et comédien
+       * Nicole Robain: Secretaire et metteuse en scène  
+       * José Robain: Technicien et comédien  
+       * Anne-Sophie Morel: Comédienne  
+       * Stéphane Morel: Comédien  
+       * Philippe Charpy: Comédien  
+       * Marie-Cécile Raoulx: Comédienne
+         
       Les billets seront disponibles à la vente à partir du 19 septembre 2025<br>
 
       Ne manquez pas cette chance de vivre le théâtre sous toutes ses formes !

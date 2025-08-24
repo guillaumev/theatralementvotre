@@ -20,6 +20,7 @@ feature_row:
 
       **Où et quand**<br />
         Le festival se déroule  le 03, 04, 05 et 10, 11 Octobre 2025 à  la salle d’animation de Neuvecelle un cadre unique qui devient, le temps de quelques jours, le théâtre vivant d’une                programmation riche, engagée et festive.
+    
 
     **Une programmation éclectique**<br />
       Le programme du festival a été conçu pour offrir une expérience théâtrale accessible à tous, mêlant tradition et modernité, réflexion et divertissement. Que vous soyez passionné de               théâtre, curieux ou simple promeneur, vous y trouverez de quoi nourrir votre imagination et vos émotions.

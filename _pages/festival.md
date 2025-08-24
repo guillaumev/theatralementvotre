@@ -42,7 +42,7 @@ feature_row:
     btn_label: "Acheter des billets"
     btn_class: "btn--info"
 premier-w:
-  - image_path: /assets/img/ven03.png
+  - image_path: /assets/img/vend03.png
     alt: "Première wee-kend"
     title: "Première wee-kend"
 cote_cours:

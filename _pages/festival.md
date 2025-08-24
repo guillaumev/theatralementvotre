@@ -42,17 +42,17 @@ feature_row:
     btn_label: "Acheter des billets"
     btn_class: "btn--info"
 plan:
-  - image_path: /assets/img/Plan.jpg
-    alt: "Plan Neuvescene"
-    title: "Plan de la salle"
+  - image_path: /assets/img/fest1.png
+    alt: "Première wee-kend"
+    title: "Première wee-kend"
 cote_cours:
-  - image_path: /assets/img/cote-cour.jpeg
-    alt: "Côté cours"
-    title: "Côté cour"
+  - image_path: /assets/img/fest2.png
+    alt: "Deuxième wee-kend"
+    title: "Deuxième wee-kend avec la présence de Jean Paul Alègre, parrain de Neuvescène'25"
 cote_jardin:
-  - image_path: /assets/img/cote-jardin.jpeg
-    alt: "Côté jardin"
-    title: "Côté jardin"
+  - image_path: /assets/img/fest3.png
+    alt: "recapitulatif"
+    title: "Un rendez-vous riche en partages"
 ---
 
 {% include feature_row type="left" %}

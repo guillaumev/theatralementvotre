@@ -46,6 +46,8 @@ addition:
     alt: "Addition"
     title: "Addition"
     excerpt: >
+      ### Le voici, le voilà ! Voici notre programme
+ 
       ### Vendredi 03 Octobre 20h30
 
       **Compagnie des Chats-garous**<br />

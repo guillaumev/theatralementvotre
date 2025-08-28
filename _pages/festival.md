@@ -42,7 +42,7 @@ feature_row:
     btn_label: "Acheter des billets"
     btn_class: "btn--info"
 
-     ### Le voici, le voilà ! Voici notre programme
+## Le voici, le voilà ! Voici notre programme
     
 addition:
   - image_path: /assets/img/ven03.jpg

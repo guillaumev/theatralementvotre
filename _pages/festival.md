@@ -36,11 +36,12 @@ feature_row:
          Rejoignez-nous pour célébrer le théâtre sous toutes ses formes, partager des émotions, réfléchir, rire et vibrer ensemble.
          Le théâtre vous attend, et la scène est à vous !
          
-      ## Le voici, le voilà ! Voici notre programme 
-    
+          
     url: https://www.helloasso.com/associations/association-theatrale-de-neuvecelle/evenements/neuvescene-25
     btn_label: "Acheter des billets"
     btn_class: "btn--info"
+
+      ## Le voici, le voilà ! Voici notre programme 
 
 addition:
   - image_path: /assets/img/ven03.jpg

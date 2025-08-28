@@ -41,13 +41,15 @@ feature_row:
     url: https://www.helloasso.com/associations/association-theatrale-de-neuvecelle/evenements/neuvescene-25
     btn_label: "Acheter des billets"
     btn_class: "btn--info"
+
+     ### Le voici, le voilà ! Voici notre programme
+    
 addition:
   - image_path: /assets/img/ven03.jpg
     alt: "Addition"
     title: "Addition"
     excerpt: >
-      ### Le voici, le voilà ! Voici notre programme
- 
+      
       ### Vendredi 03 Octobre 20h30
 
       **Compagnie des Chats-garous**<br />

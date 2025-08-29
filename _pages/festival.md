@@ -34,10 +34,8 @@ feature_row:
     btn_label: "Acheter des billets"
     btn_class: "btn--info"
 
-addition:
-  - image_path: /assets/img/ven03.jpg
-    alt: "Addition"
-    title: "Addition"
+week1:
+  - image_path: /assets/img/fest1.png
     excerpt: >
       
       ### Vendredi 03 Octobre 20h30

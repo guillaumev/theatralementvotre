@@ -27,8 +27,9 @@ feature_row:
        **Un lieu de rencontres**<br />
          Des rencontres avec les artistes pour échanger autour des œuvres présentées.
          Des temps festifs et conviviaux, pour commencer et prolonger les soirées dans une ambiance chaleureuse dans un espace convivial avec petite restauration et buvette.
-          
-      **La voici, la voilà : La Programmation 2025 de notre "NEUVESCÈNE'25"** <br />
+
+---
+## La voici, la voilà : La Programmation 2025 de notre "NEUVESCÈNE'25"** <br />
     
           
 fest1:
@@ -61,7 +62,7 @@ fest3:
     btn_label: "Acheter des billets"
     btn_class: "btn--info"
            
----
+
 
 {% include feature_row type="left" %}
 {% include feature_row id="fest1" type="center" %}

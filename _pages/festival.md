@@ -35,9 +35,9 @@ feature_row:
     btn_class: "btn--info"
   
 fest1:
-  title: "La voici, la voilà : La Programmation 2025 !! "
   - image_path: /assets/img/fest1.png
-    alt: "fest1"
+    alt: "La voici, la voilà : La Programmation 2025 !! "
+    title: "La voici, la voilà : La Programmation 2025 !! "
     excerpt: >
       
 fest2:

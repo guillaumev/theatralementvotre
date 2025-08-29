@@ -29,7 +29,7 @@ feature_row:
          Des temps festifs et conviviaux, pour commencer et prolonger les soirées dans une ambiance chaleureuse dans un espace convivial avec petite restauration et buvette.
 
 
-## La voici, la voilà : La Programmation 2025 de notre "NEUVESCÈNE'25"** <br />
+## La voici, la voilà : La Programmation 2025 de notre "NEUVESCÈNE'25"** 
     
           
 fest1:

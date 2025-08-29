@@ -31,7 +31,6 @@ feature_row:
 
        ## La voici, la voilà : La Programation 2025 de NEUVESCÈNE'25**
 
-        La voici, la voilà : La Programation 2025 de NEUVESCÈNE'25"
 
 fest1:
   - image_path: /assets/img/fest1.png

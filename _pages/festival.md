@@ -27,14 +27,7 @@ feature_row:
        **Un lieu de rencontres**<br />
          Des rencontres avec les artistes pour échanger autour des œuvres présentées.
          Des temps festifs et conviviaux, pour commencer et prolonger les soirées dans une ambiance chaleureuse dans un espace convivial avec petite restauration et buvette.
-         
-       **Informations pratiques**<br /> 
-         * Pass festival & tarifs réduits disponibles.
-         * Accessibilité : site adapté aux personnes à mobilité réduite.
-
-       **Neuvescène vous attend**<br />  
-         Rejoignez-nous pour célébrer le théâtre sous toutes ses formes, partager des émotions, réfléchir, rire et vibrer ensemble.
-         Le théâtre vous attend, et la scène est à vous !
+      
          
           
     url: https://www.helloasso.com/associations/association-theatrale-de-neuvecelle/evenements/neuvescene-25

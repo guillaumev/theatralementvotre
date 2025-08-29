@@ -27,6 +27,9 @@ feature_row:
        **Un lieu de rencontres**<br />
          Des rencontres avec les artistes pour échanger autour des œuvres présentées.
          Des temps festifs et conviviaux, pour commencer et prolonger les soirées dans une ambiance chaleureuse dans un espace convivial avec petite restauration et buvette.
+
+intro:
+  - excerpt: "# Contactez nous"
           
       **La voici, la voilà : La Programmation 2025 de notre "NEUVESCÈNE'25"** <br />
     

@@ -29,11 +29,10 @@ feature_row:
          Des temps festifs et conviviaux, pour commencer et prolonger les soirées dans une ambiance chaleureuse dans un espace convivial avec petite restauration et buvette.
       
          
+         
+    ### La voici, la voilà : La Programmation 2025 de notre "NEUVESCÈNE'25"
+
           
-    url: https://www.helloasso.com/associations/association-theatrale-de-neuvecelle/evenements/neuvescene-25
-    btn_label: "Acheter des billets"
-    btn_class: "btn--info"
-        
 fest1:
   - image_path: /assets/img/fest1.png
     excerpt: >

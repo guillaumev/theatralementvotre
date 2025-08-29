@@ -39,7 +39,11 @@ fest1:
     alt: "La voici, la voilà : La Programmation 2025 !! "
     title: "La voici, la voilà : La Programmation 2025 !! "
     excerpt: >
-           
+
+    url: https://www.helloasso.com/associations/association-theatrale-de-neuvecelle/evenements/neuvescene-25
+    btn_label: "Acheter des billets"
+    btn_class: "btn--info"
+    
 fest2:
   - image_path: /assets/img/fest2.png
     excerpt: >

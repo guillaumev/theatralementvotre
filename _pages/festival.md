@@ -41,6 +41,8 @@ fest1:
     alt: "La voici, la voilà : La Programmation 2025 !! "
     title: "La voici, la voilà : La Programmation 2025 !! "
     excerpt: >
+
+      ## "La voici, la voilà : La Programmation 2025 !! "
       
 fest2:
   - image_path: /assets/img/fest2.png

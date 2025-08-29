@@ -120,7 +120,7 @@ tres_saint_pere:
 ---
 
 {% include feature_row type="left" %}
-{% include feature_row id="addition" type="right" %}
+{% include feature_row id="week1" type="left" %}
 {% include feature_row id="place_des_amoureux" type="left" %}
 {% include feature_row id="un_air_de_famille" type="right" %}
 {% include feature_row id="versailles" type="left" %}

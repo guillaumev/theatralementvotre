@@ -33,13 +33,11 @@ feature_row:
     url: https://www.helloasso.com/associations/association-theatrale-de-neuvecelle/evenements/neuvescene-25
     btn_label: "Acheter des billets"
     btn_class: "btn--info"
-    excerpt: >
-    
-### La voici, la voilà : La Programmation 2025 !! 
-excerpt: >
-
+  
 fest1:
   - image_path: /assets/img/fest1.png
+    alt: "fest1"
+    title: "La voici, la voilà : La Programmation 2025 !! "
     excerpt: >
       
 fest2:

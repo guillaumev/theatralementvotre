@@ -35,7 +35,8 @@ feature_row:
     btn_class: "btn--info"
     excerpt: >
     
-### La voici, la voilà : la programmation 2025 !! <br />
+### La voici, la voilà : La Programmation 2025 !! 
+excerpt: >
 
 fest1:
   - image_path: /assets/img/fest1.png

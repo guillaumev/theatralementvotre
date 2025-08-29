@@ -34,7 +34,7 @@ feature_row:
     btn_label: "Acheter des billets"
     btn_class: "btn--info"
     
-### La voici, la voilà : la programmation 2025 !!
+### La voici, la voilà : la programmation 2025 !! <br />
 
 fest1:
   - image_path: /assets/img/fest1.png

@@ -26,10 +26,10 @@ feature_row:
          
        **Un lieu de rencontres**<br />
          Des rencontres avec les artistes pour échanger autour des œuvres présentées.
-         Des temps festifs et conviviaux, pour commencer et prolonger les soirées dans une ambiance chaleureuse dans un espace convivial avec petite restauration et buvette.
+         Des temps festifs et conviviaux, pour commencer et prolonger les soirées dans une ambiance chaleureuse dans un espace convivial avec petite restauration et buvette.<br />
 
 
-       ## La voici, la voilà : La Programation 2025 de NEUVESCÈNE'25
+    ## La voici, la voilà : La Programation 2025 de NEUVESCÈNE'25
 
 
 fest1:

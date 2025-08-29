@@ -34,10 +34,8 @@ feature_row:
     btn_label: "Acheter des billets"
     btn_class: "btn--info"
 
-addition:
-  - image_path: /assets/img/ven03.jpg
-    alt: "Addition"
-    title: "Addition"
+week1:
+  - image_path: /assets/img/fest1.png
     excerpt: >
       
       ### Vendredi 03 Octobre 20h30
@@ -122,7 +120,7 @@ tres_saint_pere:
 ---
 
 {% include feature_row type="left" %}
-{% include feature_row id="addition" type="right" %}
+{% include feature_row id="week1" type="center" %}
 {% include feature_row id="place_des_amoureux" type="left" %}
 {% include feature_row id="un_air_de_famille" type="right" %}
 {% include feature_row id="versailles" type="left" %}

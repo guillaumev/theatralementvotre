@@ -35,22 +35,10 @@ feature_row:
 fest1:
   - image_path: /assets/img/fest1.png
     excerpt: >
-
-
-
-    url: https://www.helloasso.com/associations/association-theatrale-de-neuvecelle/evenements/neuvescene-25
-    btn_label: "Acheter des billets"
-    btn_class: "btn--info"
     
 fest2:
   - image_path: /assets/img/fest2.png
     excerpt: >
-
-
-
-    url: https://www.helloasso.com/associations/association-theatrale-de-neuvecelle/evenements/neuvescene-25
-    btn_label: "Acheter des billets"
-    btn_class: "btn--info"
       
 fest3:
   - image_path: /assets/img/fest3.png

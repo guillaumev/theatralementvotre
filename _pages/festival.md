@@ -31,19 +31,15 @@ feature_row:
 
     ## La voici, la voilà : La Programation 2025 de NEUVESCÈNE'25
 
-
 fest1:
   - image_path: /assets/img/fest1.png
     excerpt: >
-    
 fest2:
   - image_path: /assets/img/fest2.png
     excerpt: >
-      
 fest3:
   - image_path: /assets/img/fest3.png
     excerpt: >
-
 
 
     url: https://www.helloasso.com/associations/association-theatrale-de-neuvecelle/evenements/neuvescene-25
@@ -53,6 +49,6 @@ fest3:
 ---
 
 {% include feature_row type="left" %}
-{% include feature_row id="fest1" type="center" %}
+{% include feature_row id="fest1" type="centert" %}
 {% include feature_row id="fest2" type="centert" %}
-{% include feature_row id="fest3" type="center" %}
+{% include feature_row id="fest3" type="centert" %}

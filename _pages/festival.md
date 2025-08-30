@@ -53,6 +53,6 @@ fest3:
 ---
 
 {% include feature_row type="left" %}
-{% include feature_row id="fest1" type="left" %}
-{% include feature_row id="fest2" type="left" %}
-{% include feature_row id="fest3" type="left" %}
+{% include feature_row id="fest1" type="center" %}
+{% include feature_row id="fest2" type="centert" %}
+{% include feature_row id="fest3" type="center" %}

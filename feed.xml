@@ -3,45 +3,10 @@
     <title>Théâtralement Votre </title>
     <link href="https://www.theatralementvotre.fr/feed.xml" rel="self" />
     <link href="https://www.theatralementvotre.fr" />
-    <updated>2025-09-22T15:21:19+02:00</updated>
+    <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>yesdy</name>
     </author>
     <id>https://www.theatralementvotre.fr</id>
 
-    <entry>
-        <title>PROGRAMME 2025</title>
-        <author>
-            <name>Théâtralement Votre</name>
-        </author>
-        <link href="https://www.theatralementvotre.fr/programme-2025/"/>
-        <id>https://www.theatralementvotre.fr/programme-2025/</id>
-        <media:content url="https://www.theatralementvotre.fr/media/posts/8/affiche.png" medium="image" />
-            <category term="programme2025"/>
-            <category term="jp"/>
-            <category term="Journee-comedien"/>
-
-        <updated>2025-09-05T13:42:52+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.theatralementvotre.fr/media/posts/8/affiche.png" alt="" />
-                    Réservez ici&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.theatralementvotre.fr/media/posts/8/affiche.png" class="type:primaryImage" alt="" /></p>
-                <h1 class="align-center"><strong style="font-family: var(--font-base); font-size: 1.80203em; letter-spacing: var(--letter-spacing);"><em><span style="color: #e03e2d;"><span style="text-decoration: underline;"><a href="https://www.helloasso.com/associations/association-theatrale-de-neuvecelle/evenements/neuvescene-25" target="_blank" rel="noopener noreferrer">Réservez ici </a></span> </span></em></strong></h1>
-<p>Toute au long du second weekend du festival nous aurons le plaisir d'accueillir <em><strong>Jean Paul Alègre</strong></em>, auteur dramatique reconnu parrain de cette édition 2025.</p>
-<p>À l'issue de chaque représentation, une table ronde ouverte au public sera organisée en sa présence </p>
-<figure class="post__image post__image--full"><img loading="lazy"  src="https://www.theatralementvotre.fr/media/posts/8/fest1.png" alt="" width="960" height="1027" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.theatralementvotre.fr/media/posts/8/responsive/fest1-xs.png 300w ,https://www.theatralementvotre.fr/media/posts/8/responsive/fest1-sm.png 480w ,https://www.theatralementvotre.fr/media/posts/8/responsive/fest1-md.png 768w"></figure>
-<hr>
-<figure class="post__image post__image--full"><img loading="lazy"  src="https://www.theatralementvotre.fr/media/posts/8/fest2-2.png" alt="" width="960" height="1027" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.theatralementvotre.fr/media/posts/8/responsive/fest2-2-xs.png 300w ,https://www.theatralementvotre.fr/media/posts/8/responsive/fest2-2-sm.png 480w ,https://www.theatralementvotre.fr/media/posts/8/responsive/fest2-2-md.png 768w"></figure>
-<blockquote>
-<p class="align-center"><span style="color: #ba372a;">Merci du fond du cœur à toutes celles et ceux qui ont allumé la flamme de ce festival.</span></p>
-<p class="align-center"><span style="color: #ba372a;">Grâce à votre élan, vos cœurs et vos mains, le théâtre a vécu, vibrant de passion et de partage.</span></p>
-</blockquote>
-            ]]>
-        </content>
-    </entry>
 </feed>

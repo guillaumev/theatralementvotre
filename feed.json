@@ -1,12 +1,13 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Théâtralement Vôtre",
+    "title": "Théâtralement Votre ",
     "description": "",
     "home_page_url": "https://www.theatralementvotre.fr",
     "feed_url": "https://www.theatralementvotre.fr/feed.json",
     "user_comment": "",
+    "icon": "https://www.theatralementvotre.fr/media/website/logo-site.png",
     "author": {
-        "name": "Nicole"
+        "name": "yesdy"
     },
     "items": [
     ]
